@@ -1,0 +1,15 @@
+C:\Users\yohan\source\repos\C#OO\C#OO\bin\Debug\net7.0\C#OO.exe
+C:\Users\yohan\source\repos\C#OO\C#OO\bin\Debug\net7.0\C#OO.deps.json
+C:\Users\yohan\source\repos\C#OO\C#OO\bin\Debug\net7.0\C#OO.runtimeconfig.json
+C:\Users\yohan\source\repos\C#OO\C#OO\bin\Debug\net7.0\C#OO.dll
+C:\Users\yohan\source\repos\C#OO\C#OO\bin\Debug\net7.0\C#OO.pdb
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\C#OO.csproj.AssemblyReference.cache
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\C#OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\C#OO.AssemblyInfoInputs.cache
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\C#OO.AssemblyInfo.cs
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\C#OO.csproj.CoreCompileInputs.cache
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\C#OO.dll
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\refint\C#OO.dll
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\C#OO.pdb
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\C#OO.genruntimeconfig.cache
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\ref\C#OO.dll

@@ -1,0 +1,15 @@
+C:\Users\yohan\source\repos\C#OO\C#OO\bin\Debug\net7.0\ScreenSound.exe
+C:\Users\yohan\source\repos\C#OO\C#OO\bin\Debug\net7.0\ScreenSound.deps.json
+C:\Users\yohan\source\repos\C#OO\C#OO\bin\Debug\net7.0\ScreenSound.runtimeconfig.json
+C:\Users\yohan\source\repos\C#OO\C#OO\bin\Debug\net7.0\ScreenSound.dll
+C:\Users\yohan\source\repos\C#OO\C#OO\bin\Debug\net7.0\ScreenSound.pdb
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\ScreenSound.csproj.AssemblyReference.cache
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\ScreenSound.AssemblyInfo.cs
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\ScreenSound.dll
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\refint\ScreenSound.dll
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\ScreenSound.pdb
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\ScreenSound.genruntimeconfig.cache
+C:\Users\yohan\source\repos\C#OO\C#OO\obj\Debug\net7.0\ref\ScreenSound.dll
